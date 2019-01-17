@@ -25,7 +25,7 @@ Include the `env` variable in the build block of `quasar.conf.js`
 ```javascript
    build: {
       // ...
-      env: env,
+      env: env, // or simple 'env,'
       // ...
    }
 ```
